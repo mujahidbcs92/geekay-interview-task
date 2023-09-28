@@ -88,6 +88,7 @@ button{
 .card {
     color: rgb(0, 0, 0);
     text-align: center;
+    border: none;
 }
 
 .card img{
