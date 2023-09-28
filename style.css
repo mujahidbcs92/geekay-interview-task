@@ -127,6 +127,10 @@ footer {
     #main {
         width: 100%;
     }
+
+  .content{
+    width: 450px;
+   }
 }
 
 
